@@ -140,5 +140,5 @@ export const contact = {
   text: "I am looking for a Java full stack role. Send a message and I will reply as soon as I can.",
   // 1. Create a free form at https://formspree.io
   // 2. Paste your form ID below (the part after /f/ in the endpoint URL)
-  formspreeId: "YOUR_FORM_ID",
+  formspreeId: "https://formspree.io/f/xyewneze",
 };
